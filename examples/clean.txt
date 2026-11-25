@@ -1,0 +1,3 @@
+Summarize the key decisions from yesterday's team meeting in five bullet
+points. Focus on the launch date, the budget, and who owns each action item.
+Keep the tone neutral and do not add anything that was not discussed.
